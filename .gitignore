@@ -4,3 +4,5 @@
 *.zip
 *.db
 *.dcu
+*.ini
+/vidframe/
